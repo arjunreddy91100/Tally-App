@@ -3,6 +3,8 @@
 A calm little app for splitting shared expenses with friends: trips, flatmates, dinner clubs.
 It runs entirely in the browser as a single `index.html` with no build step and no dependencies.
 
+**[▶ Try Tally live](https://arjunreddy91100.github.io/Tally-App/)**: it opens with sample groups, so you can explore right away. Nothing to install.
+
 ![Insights](screenshots/insights.png)
 
 ## Features
