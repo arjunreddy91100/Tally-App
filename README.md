@@ -7,6 +7,26 @@ It runs entirely in the browser as a single `index.html` with no build step and 
 
 ![Insights](screenshots/insights.png)
 
+## Why Tally?
+
+Splitwise is the best-known app for this, and it's great. Tally exists for the moments where it gets in the way.
+
+| | Tally | Splitwise free plan* |
+|---|---|---|
+| Expenses per day | Unlimited | Blocked after about 3–5 a day |
+| Ads | None | Shown between screens |
+| Spending charts and search | Free | Pro only |
+| Receipt photos | Free | Pro only (scanning) |
+| Add an expense by typing a sentence | Yes: `Pizza 32 with Mia and Leo` | No |
+| Reminders with a pay link (UPI, Venmo, PayPal) | Yes, amount pre-filled | No |
+| Sign-up needed | No, open the link and start | Yes |
+| Where your data lives | Your browser (private groups) | Splitwise's servers |
+| Open source | Yes | No |
+
+\*As of October 2026, from [Finny's Splitwise pricing breakdown](https://getfinny.app/blog/splitwise-pricing-2026). Splitwise Pro removes these limits for about $4.99 a month in the US.
+
+**What Splitwise does better today:** native iPhone and Android apps, push notifications, accounts that sync across every device, and years of reliability. Tally is a young, open project. If you need those, use Splitwise. If you want something free, fast and private for your next trip or flat, try Tally.
+
 ## Features
 
 - **Groups and balances.** Add expenses and see who owes whom. Settle up suggests the fewest payments that clear everyone's balance.
